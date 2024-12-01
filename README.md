@@ -157,4 +157,4 @@ python3 detect_dual_tracking.py --weights 'yolov9-c.pt' --source 'your video.mp4
 - Output file will be created in the ```working-dir/runs/detect/obj-tracking``` with original filename
 
 ### IV. Results
-![alt text](Picture1.gif)
+![alt text](PersonTracking.png)
